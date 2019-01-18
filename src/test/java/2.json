@@ -1,0 +1,24 @@
+{
+  "id": 100,
+  "total_price": 52.81,
+  "created_at": "2015-01-30T17:34:50.000Z",
+  "email": "MICHAEL@GMAIL.COM",
+  "first_name": "Michael",
+  "city": "Apopka",
+  "country": "US",
+  "browser_ip": "24.110.18.142",
+  "currency": "USD",
+  "digital": false,
+  "products": [
+    {
+      "title": "The Wonder Years \"Pigeon Flag\" Flag",
+      "price": 19.99,
+      "quantity": 1
+    },
+    {
+      "title": "Stick To Your Guns \"OCHC\" Black Shirt",
+      "price": 13.99,
+      "quantity": 1
+    }
+  ]
+}

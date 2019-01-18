@@ -1,0 +1,5 @@
+{
+  "total_price": {"toCheck":"grater_than", "value":"100"},
+  "email": {"toCheck":"domain", "value":"gmail"},
+  "_operator": "or"
+}
